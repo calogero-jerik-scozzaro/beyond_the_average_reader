@@ -1,0 +1,1853 @@
+nohup: ignoring input
+Configuration: {'profilation': 'all_readers', 'model_name': 'LSTM', 'num_texts_embedding': 10, 'metric_name': 'IA_FIRST_FIXATION_DURATION', 'k_similar_readers': 20, 'device': device(type='cuda')}
+
+Results for reader Sub01:
+Results for datasets' values:
+Mean accL: 83.82%
+Mean accT: 60.93%
+Mean accS: 49.28%
+Results for reader's values:
+Mean accL: 58.41%
+Mean accT: 18.42%
+Mean accS: 14.19%
+
+
+Results for reader Sub02:
+Results for datasets' values:
+Mean accL: 83.67%
+Mean accT: 59.85%
+Mean accS: 48.71%
+Results for reader's values:
+Mean accL: 67.52%
+Mean accT: 41.65%
+Mean accS: 33.71%
+
+
+Results for reader Sub03:
+Results for datasets' values:
+Mean accL: 84.08%
+Mean accT: 61.39%
+Mean accS: 49.13%
+Results for reader's values:
+Mean accL: 69.07%
+Mean accT: 42.32%
+Mean accS: 39.23%
+
+
+Results for reader Sub04:
+Results for datasets' values:
+Mean accL: 83.8%
+Mean accT: 59.44%
+Mean accS: 49.32%
+Results for reader's values:
+Mean accL: 65.45%
+Mean accT: 33.17%
+Mean accS: 29.15%
+
+
+Results for reader Sub05:
+Results for datasets' values:
+Mean accL: 83.89%
+Mean accT: 59.73%
+Mean accS: 49.47%
+Results for reader's values:
+Mean accL: 63.1%
+Mean accT: 29.86%
+Mean accS: 25.49%
+
+
+Results for reader Sub06:
+Results for datasets' values:
+Mean accL: 83.79%
+Mean accT: 59.81%
+Mean accS: 49.25%
+Results for reader's values:
+Mean accL: 70.03%
+Mean accT: 42.0%
+Mean accS: 36.41%
+
+
+Results for reader Sub07:
+Results for datasets' values:
+Mean accL: 83.65%
+Mean accT: 60.25%
+Mean accS: 48.97%
+Results for reader's values:
+Mean accL: 67.4%
+Mean accT: 36.24%
+Mean accS: 29.48%
+
+
+Results for reader Sub08:
+Results for datasets' values:
+Mean accL: 83.86%
+Mean accT: 61.0%
+Mean accS: 49.32%
+Results for reader's values:
+Mean accL: 60.09%
+Mean accT: 28.69%
+Mean accS: 25.38%
+
+
+Results for reader Sub09:
+Results for datasets' values:
+Mean accL: 83.82%
+Mean accT: 60.27%
+Mean accS: 49.63%
+Results for reader's values:
+Mean accL: 62.75%
+Mean accT: 25.58%
+Mean accS: 22.75%
+
+
+Results for reader Sub10:
+Results for datasets' values:
+Mean accL: 83.78%
+Mean accT: 60.77%
+Mean accS: 49.91%
+Results for reader's values:
+Mean accL: 66.58%
+Mean accT: 33.06%
+Mean accS: 28.36%
+
+
+Results for reader Sub11:
+Results for datasets' values:
+Mean accL: 83.86%
+Mean accT: 60.57%
+Mean accS: 50.05%
+Results for reader's values:
+Mean accL: 62.75%
+Mean accT: 31.39%
+Mean accS: 26.68%
+
+
+Results for reader Sub12:
+Results for datasets' values:
+Mean accL: 84.07%
+Mean accT: 60.98%
+Mean accS: 49.51%
+Results for reader's values:
+Mean accL: 70.17%
+Mean accT: 39.76%
+Mean accS: 35.7%
+
+
+Results for reader Sub13:
+Results for datasets' values:
+Mean accL: 84.02%
+Mean accT: 61.06%
+Mean accS: 48.79%
+Results for reader's values:
+Mean accL: 69.41%
+Mean accT: 40.33%
+Mean accS: 35.3%
+
+
+Results for reader Sub14:
+Results for datasets' values:
+Mean accL: 83.95%
+Mean accT: 59.8%
+Mean accS: 49.84%
+Results for reader's values:
+Mean accL: 72.99%
+Mean accT: 47.35%
+Mean accS: 41.96%
+
+
+Results for reader Sub15:
+Results for datasets' values:
+Mean accL: 83.95%
+Mean accT: 59.83%
+Mean accS: 49.24%
+Results for reader's values:
+Mean accL: 65.51%
+Mean accT: 34.34%
+Mean accS: 32.77%
+
+
+Results for reader Sub16:
+Results for datasets' values:
+Mean accL: 83.99%
+Mean accT: 59.68%
+Mean accS: 48.91%
+Results for reader's values:
+Mean accL: 66.61%
+Mean accT: 32.4%
+Mean accS: 29.68%
+
+
+Results for reader Sub17:
+Results for datasets' values:
+Mean accL: 83.8%
+Mean accT: 60.12%
+Mean accS: 48.7%
+Results for reader's values:
+Mean accL: 68.69%
+Mean accT: 34.89%
+Mean accS: 27.76%
+
+
+Results for reader Sub18:
+Results for datasets' values:
+Mean accL: 83.96%
+Mean accT: 59.45%
+Mean accS: 48.96%
+Results for reader's values:
+Mean accL: 64.18%
+Mean accT: 30.49%
+Mean accS: 26.57%
+
+
+Results for reader Sub19:
+Results for datasets' values:
+Mean accL: 83.9%
+Mean accT: 60.02%
+Mean accS: 49.17%
+Results for reader's values:
+Mean accL: 64.48%
+Mean accT: 30.94%
+Mean accS: 24.71%
+
+
+Results for reader Sub20:
+Results for datasets' values:
+Mean accL: 83.88%
+Mean accT: 59.58%
+Mean accS: 49.33%
+Results for reader's values:
+Mean accL: 64.42%
+Mean accT: 33.01%
+Mean accS: 27.2%
+
+
+Results for reader Sub21:
+Results for datasets' values:
+Mean accL: 83.99%
+Mean accT: 60.25%
+Mean accS: 50.16%
+Results for reader's values:
+Mean accL: 65.67%
+Mean accT: 34.4%
+Mean accS: 29.31%
+
+
+Results for reader Sub22:
+Results for datasets' values:
+Mean accL: 84.12%
+Mean accT: 60.84%
+Mean accS: 48.85%
+Results for reader's values:
+Mean accL: 66.13%
+Mean accT: 36.46%
+Mean accS: 31.12%
+
+
+Results for reader Sub23:
+Results for datasets' values:
+Mean accL: 83.95%
+Mean accT: 60.38%
+Mean accS: 49.59%
+Results for reader's values:
+Mean accL: 70.86%
+Mean accT: 42.19%
+Mean accS: 35.51%
+
+
+Results for reader Sub24:
+Results for datasets' values:
+Mean accL: 83.8%
+Mean accT: 59.91%
+Mean accS: 49.59%
+Results for reader's values:
+Mean accL: 67.6%
+Mean accT: 36.94%
+Mean accS: 31.83%
+
+
+Results for reader Sub25:
+Results for datasets' values:
+Mean accL: 83.92%
+Mean accT: 60.65%
+Mean accS: 48.73%
+Results for reader's values:
+Mean accL: 54.85%
+Mean accT: 22.79%
+Mean accS: 19.5%
+
+
+Results for reader Sub26:
+Results for datasets' values:
+Mean accL: 83.89%
+Mean accT: 58.9%
+Mean accS: 49.15%
+Results for reader's values:
+Mean accL: 70.63%
+Mean accT: 40.79%
+Mean accS: 34.58%
+
+
+Results for reader Sub27:
+Results for datasets' values:
+Mean accL: 83.73%
+Mean accT: 60.62%
+Mean accS: 49.69%
+Results for reader's values:
+Mean accL: 63.75%
+Mean accT: 27.38%
+Mean accS: 20.57%
+
+
+Results for reader Sub28:
+Results for datasets' values:
+Mean accL: 83.83%
+Mean accT: 60.18%
+Mean accS: 48.8%
+Results for reader's values:
+Mean accL: 69.35%
+Mean accT: 40.37%
+Mean accS: 34.12%
+
+
+Results for reader Sub29:
+Results for datasets' values:
+Mean accL: 83.96%
+Mean accT: 60.01%
+Mean accS: 49.8%
+Results for reader's values:
+Mean accL: 64.41%
+Mean accT: 27.9%
+Mean accS: 23.79%
+
+
+Results for reader Sub30:
+Results for datasets' values:
+Mean accL: 83.92%
+Mean accT: 59.91%
+Mean accS: 49.65%
+Results for reader's values:
+Mean accL: 63.55%
+Mean accT: 29.87%
+Mean accS: 25.96%
+
+
+Results for reader Sub31:
+Results for datasets' values:
+Mean accL: 83.93%
+Mean accT: 60.34%
+Mean accS: 48.76%
+Results for reader's values:
+Mean accL: 64.13%
+Mean accT: 29.07%
+Mean accS: 23.12%
+
+
+Results for reader Sub32:
+Results for datasets' values:
+Mean accL: 83.82%
+Mean accT: 59.65%
+Mean accS: 50.01%
+Results for reader's values:
+Mean accL: 64.81%
+Mean accT: 31.49%
+Mean accS: 25.93%
+
+
+Results for reader Sub33:
+Results for datasets' values:
+Mean accL: 84.02%
+Mean accT: 59.77%
+Mean accS: 49.37%
+Results for reader's values:
+Mean accL: 58.15%
+Mean accT: 18.09%
+Mean accS: 15.13%
+
+
+Results for reader Sub34:
+Results for datasets' values:
+Mean accL: 84.0%
+Mean accT: 60.81%
+Mean accS: 49.12%
+Results for reader's values:
+Mean accL: 57.35%
+Mean accT: 20.81%
+Mean accS: 18.45%
+
+
+Results for reader Sub35:
+Results for datasets' values:
+Mean accL: 83.96%
+Mean accT: 59.17%
+Mean accS: 48.82%
+Results for reader's values:
+Mean accL: 53.3%
+Mean accT: 19.57%
+Mean accS: 16.76%
+
+
+Results for reader Sub36:
+Results for datasets' values:
+Mean accL: 83.99%
+Mean accT: 60.27%
+Mean accS: 49.84%
+Results for reader's values:
+Mean accL: 62.03%
+Mean accT: 24.29%
+Mean accS: 21.22%
+
+
+Results for reader Sub37:
+Results for datasets' values:
+Mean accL: 83.86%
+Mean accT: 59.76%
+Mean accS: 49.13%
+Results for reader's values:
+Mean accL: 60.63%
+Mean accT: 21.08%
+Mean accS: 17.62%
+
+
+Results for reader Sub38:
+Results for datasets' values:
+Mean accL: 84.06%
+Mean accT: 59.73%
+Mean accS: 48.67%
+Results for reader's values:
+Mean accL: 55.74%
+Mean accT: 14.95%
+Mean accS: 12.54%
+
+
+Results for reader Sub39:
+Results for datasets' values:
+Mean accL: 84.04%
+Mean accT: 60.82%
+Mean accS: 49.25%
+Results for reader's values:
+Mean accL: 73.68%
+Mean accT: 47.13%
+Mean accS: 41.65%
+
+
+Results for reader Sub40:
+Results for datasets' values:
+Mean accL: 83.74%
+Mean accT: 59.82%
+Mean accS: 48.7%
+Results for reader's values:
+Mean accL: 64.58%
+Mean accT: 34.24%
+Mean accS: 30.48%
+
+
+Results for reader Sub41:
+Results for datasets' values:
+Mean accL: 83.86%
+Mean accT: 60.37%
+Mean accS: 49.41%
+Results for reader's values:
+Mean accL: 67.26%
+Mean accT: 43.11%
+Mean accS: 38.61%
+
+
+Results for reader Sub42:
+Results for datasets' values:
+Mean accL: 83.84%
+Mean accT: 59.98%
+Mean accS: 49.27%
+Results for reader's values:
+Mean accL: 67.38%
+Mean accT: 35.94%
+Mean accS: 30.53%
+
+
+Results for reader Sub43:
+Results for datasets' values:
+Mean accL: 83.75%
+Mean accT: 59.29%
+Mean accS: 48.94%
+Results for reader's values:
+Mean accL: 62.5%
+Mean accT: 32.92%
+Mean accS: 26.1%
+
+
+Results for reader Sub44:
+Results for datasets' values:
+Mean accL: 83.95%
+Mean accT: 59.72%
+Mean accS: 49.04%
+Results for reader's values:
+Mean accL: 63.92%
+Mean accT: 30.7%
+Mean accS: 26.1%
+
+
+Results for reader Sub45:
+Results for datasets' values:
+Mean accL: 83.86%
+Mean accT: 59.39%
+Mean accS: 49.32%
+Results for reader's values:
+Mean accL: 64.49%
+Mean accT: 26.92%
+Mean accS: 22.28%
+
+
+Results for reader Sub46:
+Results for datasets' values:
+Mean accL: 83.8%
+Mean accT: 60.29%
+Mean accS: 49.61%
+Results for reader's values:
+Mean accL: 60.05%
+Mean accT: 22.39%
+Mean accS: 18.69%
+
+
+Results for reader Sub47:
+Results for datasets' values:
+Mean accL: 84.01%
+Mean accT: 59.8%
+Mean accS: 49.11%
+Results for reader's values:
+Mean accL: 67.83%
+Mean accT: 35.55%
+Mean accS: 31.21%
+
+
+Results for reader Sub48:
+Results for datasets' values:
+Mean accL: 83.86%
+Mean accT: 60.49%
+Mean accS: 48.43%
+Results for reader's values:
+Mean accL: 55.15%
+Mean accT: 18.8%
+Mean accS: 16.62%
+
+
+Results for reader Sub49:
+Results for datasets' values:
+Mean accL: 83.56%
+Mean accT: 59.06%
+Mean accS: 48.88%
+Results for reader's values:
+Mean accL: 52.1%
+Mean accT: 14.95%
+Mean accS: 13.21%
+
+
+Results for reader Sub50:
+Results for datasets' values:
+Mean accL: 83.94%
+Mean accT: 59.15%
+Mean accS: 48.94%
+Results for reader's values:
+Mean accL: 65.03%
+Mean accT: 32.44%
+Mean accS: 28.26%
+
+
+Results for reader Sub51:
+Results for datasets' values:
+Mean accL: 83.89%
+Mean accT: 59.75%
+Mean accS: 49.18%
+Results for reader's values:
+Mean accL: 65.62%
+Mean accT: 28.71%
+Mean accS: 25.56%
+
+
+Results for reader Sub52:
+Results for datasets' values:
+Mean accL: 83.97%
+Mean accT: 58.82%
+Mean accS: 49.36%
+Results for reader's values:
+Mean accL: 64.54%
+Mean accT: 33.66%
+Mean accS: 28.98%
+
+
+Results for reader Sub53:
+Results for datasets' values:
+Mean accL: 84.04%
+Mean accT: 60.6%
+Mean accS: 49.64%
+Results for reader's values:
+Mean accL: 69.97%
+Mean accT: 38.77%
+Mean accS: 34.32%
+
+
+Results for reader Sub54:
+Results for datasets' values:
+Mean accL: 83.98%
+Mean accT: 60.13%
+Mean accS: 48.95%
+Results for reader's values:
+Mean accL: 63.88%
+Mean accT: 30.22%
+Mean accS: 25.44%
+
+
+Results for reader Sub55:
+Results for datasets' values:
+Mean accL: 83.91%
+Mean accT: 59.6%
+Mean accS: 48.52%
+Results for reader's values:
+Mean accL: 66.01%
+Mean accT: 32.83%
+Mean accS: 27.34%
+
+
+Results for reader Sub56:
+Results for datasets' values:
+Mean accL: 84.06%
+Mean accT: 60.09%
+Mean accS: 48.31%
+Results for reader's values:
+Mean accL: 65.24%
+Mean accT: 33.86%
+Mean accS: 28.26%
+
+
+Results for reader Sub57:
+Results for datasets' values:
+Mean accL: 83.81%
+Mean accT: 59.8%
+Mean accS: 48.76%
+Results for reader's values:
+Mean accL: 55.58%
+Mean accT: 28.44%
+Mean accS: 25.55%
+
+
+Results for reader Sub58:
+Results for datasets' values:
+Mean accL: 83.88%
+Mean accT: 60.07%
+Mean accS: 49.44%
+Results for reader's values:
+Mean accL: 70.79%
+Mean accT: 44.7%
+Mean accS: 38.0%
+
+
+Results for reader Sub59:
+Results for datasets' values:
+Mean accL: 83.86%
+Mean accT: 59.77%
+Mean accS: 49.08%
+Results for reader's values:
+Mean accL: 73.76%
+Mean accT: 47.24%
+Mean accS: 41.58%
+
+
+Results for reader Sub60:
+Results for datasets' values:
+Mean accL: 83.95%
+Mean accT: 59.77%
+Mean accS: 49.54%
+Results for reader's values:
+Mean accL: 65.57%
+Mean accT: 33.14%
+Mean accS: 29.0%
+
+
+Results for reader Sub61:
+Results for datasets' values:
+Mean accL: 83.93%
+Mean accT: 59.5%
+Mean accS: 48.69%
+Results for reader's values:
+Mean accL: 67.79%
+Mean accT: 37.24%
+Mean accS: 33.39%
+
+
+Results for reader Sub62:
+Results for datasets' values:
+Mean accL: 83.66%
+Mean accT: 59.88%
+Mean accS: 48.05%
+Results for reader's values:
+Mean accL: 66.55%
+Mean accT: 36.31%
+Mean accS: 32.04%
+
+
+Results for reader Sub63:
+Results for datasets' values:
+Mean accL: 83.87%
+Mean accT: 60.19%
+Mean accS: 49.31%
+Results for reader's values:
+Mean accL: 62.42%
+Mean accT: 27.99%
+Mean accS: 24.25%
+
+
+Results for reader Sub64:
+Results for datasets' values:
+Mean accL: 84.2%
+Mean accT: 61.03%
+Mean accS: 49.66%
+Results for reader's values:
+Mean accL: 65.35%
+Mean accT: 30.32%
+Mean accS: 27.1%
+
+
+Results for reader Sub65:
+Results for datasets' values:
+Mean accL: 84.05%
+Mean accT: 60.2%
+Mean accS: 49.53%
+Results for reader's values:
+Mean accL: 54.85%
+Mean accT: 18.64%
+Mean accS: 14.8%
+
+
+Results for reader Sub66:
+Results for datasets' values:
+Mean accL: 83.82%
+Mean accT: 60.01%
+Mean accS: 48.35%
+Results for reader's values:
+Mean accL: 76.77%
+Mean accT: 57.0%
+Mean accS: 47.86%
+
+
+Results for reader Sub67:
+Results for datasets' values:
+Mean accL: 83.78%
+Mean accT: 60.24%
+Mean accS: 49.68%
+Results for reader's values:
+Mean accL: 53.63%
+Mean accT: 20.4%
+Mean accS: 17.56%
+
+
+Results for reader Sub68:
+Results for datasets' values:
+Mean accL: 83.87%
+Mean accT: 59.25%
+Mean accS: 49.6%
+Results for reader's values:
+Mean accL: 60.48%
+Mean accT: 20.76%
+Mean accS: 17.55%
+
+
+Results for reader Sub69:
+Results for datasets' values:
+Mean accL: 83.95%
+Mean accT: 59.64%
+Mean accS: 48.46%
+Results for reader's values:
+Mean accL: 73.61%
+Mean accT: 46.86%
+Mean accS: 39.96%
+
+
+Results for reader Sub70:
+Results for datasets' values:
+Mean accL: 83.95%
+Mean accT: 59.91%
+Mean accS: 49.1%
+Results for reader's values:
+Mean accL: 64.77%
+Mean accT: 28.28%
+Mean accS: 22.87%
+
+
+Results for reader Sub71:
+Results for datasets' values:
+Mean accL: 84.09%
+Mean accT: 59.49%
+Mean accS: 49.74%
+Results for reader's values:
+Mean accL: 63.27%
+Mean accT: 26.65%
+Mean accS: 21.99%
+
+
+Results for reader Sub72:
+Results for datasets' values:
+Mean accL: 83.79%
+Mean accT: 59.88%
+Mean accS: 49.75%
+Results for reader's values:
+Mean accL: 64.32%
+Mean accT: 32.1%
+Mean accS: 26.47%
+
+
+Results for reader Sub73:
+Results for datasets' values:
+Mean accL: 83.88%
+Mean accT: 59.26%
+Mean accS: 48.59%
+Results for reader's values:
+Mean accL: 69.47%
+Mean accT: 36.73%
+Mean accS: 32.44%
+
+
+Results for reader Sub74:
+Results for datasets' values:
+Mean accL: 84.05%
+Mean accT: 60.24%
+Mean accS: 49.74%
+Results for reader's values:
+Mean accL: 64.04%
+Mean accT: 29.34%
+Mean accS: 24.78%
+
+
+Results for reader Sub75:
+Results for datasets' values:
+Mean accL: 83.68%
+Mean accT: 60.27%
+Mean accS: 49.31%
+Results for reader's values:
+Mean accL: 52.64%
+Mean accT: 11.0%
+Mean accS: 9.61%
+
+
+Results for reader Sub76:
+Results for datasets' values:
+Mean accL: 83.85%
+Mean accT: 59.4%
+Mean accS: 48.52%
+Results for reader's values:
+Mean accL: 53.44%
+Mean accT: 20.52%
+Mean accS: 17.2%
+
+
+Results for reader Sub77:
+Results for datasets' values:
+Mean accL: 83.91%
+Mean accT: 60.51%
+Mean accS: 49.21%
+Results for reader's values:
+Mean accL: 68.89%
+Mean accT: 37.44%
+Mean accS: 33.49%
+
+
+Results for reader Sub78:
+Results for datasets' values:
+Mean accL: 83.98%
+Mean accT: 59.68%
+Mean accS: 48.84%
+Results for reader's values:
+Mean accL: 68.02%
+Mean accT: 37.41%
+Mean accS: 33.46%
+
+
+Results for reader Sub79:
+Results for datasets' values:
+Mean accL: 83.93%
+Mean accT: 60.04%
+Mean accS: 48.93%
+Results for reader's values:
+Mean accL: 66.74%
+Mean accT: 35.18%
+Mean accS: 30.95%
+
+
+Results for reader Sub80:
+Results for datasets' values:
+Mean accL: 83.92%
+Mean accT: 60.82%
+Mean accS: 49.46%
+Results for reader's values:
+Mean accL: 64.71%
+Mean accT: 32.93%
+Mean accS: 29.34%
+
+
+Results for reader Sub81:
+Results for datasets' values:
+Mean accL: 83.95%
+Mean accT: 59.29%
+Mean accS: 48.65%
+Results for reader's values:
+Mean accL: 64.51%
+Mean accT: 28.03%
+Mean accS: 23.62%
+
+
+Results for reader Sub82:
+Results for datasets' values:
+Mean accL: 83.97%
+Mean accT: 59.67%
+Mean accS: 48.24%
+Results for reader's values:
+Mean accL: 66.04%
+Mean accT: 32.23%
+Mean accS: 26.36%
+
+
+Results for reader Sub83:
+Results for datasets' values:
+Mean accL: 83.98%
+Mean accT: 60.89%
+Mean accS: 49.32%
+Results for reader's values:
+Mean accL: 66.57%
+Mean accT: 36.02%
+Mean accS: 30.99%
+
+
+Results for reader Sub84:
+Results for datasets' values:
+Mean accL: 84.04%
+Mean accT: 59.95%
+Mean accS: 49.32%
+Results for reader's values:
+Mean accL: 64.58%
+Mean accT: 31.25%
+Mean accS: 28.58%
+
+
+Configuration: {'profilation': 'top_k_similar_readers', 'model_name': 'LSTM', 'num_texts_embedding': 10, 'metric_name': 'IA_FIRST_FIXATION_DURATION', 'k_similar_readers': 20, 'device': device(type='cuda')}
+
+Results for reader Sub01:
+Results for datasets' values:
+Mean accL: 86.45%
+Mean accT: 53.09%
+Mean accS: 44.0%
+Results for reader's values:
+Mean accL: 71.17%
+Mean accT: 22.44%
+Mean accS: 18.33%
+
+
+Results for reader Sub02:
+Results for datasets' values:
+Mean accL: 85.81%
+Mean accT: 57.07%
+Mean accS: 50.04%
+Results for reader's values:
+Mean accL: 75.1%
+Mean accT: 43.86%
+Mean accS: 38.67%
+
+
+Results for reader Sub03:
+Results for datasets' values:
+Mean accL: 82.83%
+Mean accT: 51.57%
+Mean accS: 42.43%
+Results for reader's values:
+Mean accL: 72.0%
+Mean accT: 45.36%
+Mean accS: 39.83%
+
+
+Results for reader Sub04:
+Results for datasets' values:
+Mean accL: 83.74%
+Mean accT: 56.73%
+Mean accS: 46.42%
+Results for reader's values:
+Mean accL: 69.1%
+Mean accT: 36.29%
+Mean accS: 32.35%
+
+
+Results for reader Sub05:
+Results for datasets' values:
+Mean accL: 84.77%
+Mean accT: 50.01%
+Mean accS: 42.28%
+Results for reader's values:
+Mean accL: 70.52%
+Mean accT: 31.48%
+Mean accS: 26.4%
+
+
+Results for reader Sub06:
+Results for datasets' values:
+Mean accL: 84.06%
+Mean accT: 52.8%
+Mean accS: 44.84%
+Results for reader's values:
+Mean accL: 75.48%
+Mean accT: 46.59%
+Mean accS: 41.36%
+
+
+Results for reader Sub07:
+Results for datasets' values:
+Mean accL: 83.46%
+Mean accT: 50.08%
+Mean accS: 42.87%
+Results for reader's values:
+Mean accL: 72.98%
+Mean accT: 38.23%
+Mean accS: 34.22%
+
+
+Results for reader Sub08:
+Results for datasets' values:
+Mean accL: 85.52%
+Mean accT: 53.65%
+Mean accS: 46.17%
+Results for reader's values:
+Mean accL: 69.92%
+Mean accT: 32.91%
+Mean accS: 29.12%
+
+
+Results for reader Sub09:
+Results for datasets' values:
+Mean accL: 84.51%
+Mean accT: 54.8%
+Mean accS: 47.47%
+Results for reader's values:
+Mean accL: 68.36%
+Mean accT: 28.06%
+Mean accS: 24.27%
+
+
+Results for reader Sub10:
+Results for datasets' values:
+Mean accL: 85.36%
+Mean accT: 56.91%
+Mean accS: 50.0%
+Results for reader's values:
+Mean accL: 74.58%
+Mean accT: 40.63%
+Mean accS: 35.52%
+
+
+Results for reader Sub11:
+Results for datasets' values:
+Mean accL: 86.72%
+Mean accT: 56.57%
+Mean accS: 52.23%
+Results for reader's values:
+Mean accL: 73.89%
+Mean accT: 37.31%
+Mean accS: 31.53%
+
+
+Results for reader Sub12:
+Results for datasets' values:
+Mean accL: 84.41%
+Mean accT: 53.79%
+Mean accS: 45.31%
+Results for reader's values:
+Mean accL: 75.58%
+Mean accT: 44.55%
+Mean accS: 39.55%
+
+
+Results for reader Sub13:
+Results for datasets' values:
+Mean accL: 84.88%
+Mean accT: 54.28%
+Mean accS: 44.81%
+Results for reader's values:
+Mean accL: 75.09%
+Mean accT: 43.29%
+Mean accS: 38.79%
+
+
+Results for reader Sub14:
+Results for datasets' values:
+Mean accL: 83.9%
+Mean accT: 55.83%
+Mean accS: 44.43%
+Results for reader's values:
+Mean accL: 76.35%
+Mean accT: 48.32%
+Mean accS: 43.84%
+
+
+Results for reader Sub15:
+Results for datasets' values:
+Mean accL: 83.59%
+Mean accT: 52.4%
+Mean accS: 44.08%
+Results for reader's values:
+Mean accL: 70.69%
+Mean accT: 36.1%
+Mean accS: 34.43%
+
+
+Results for reader Sub16:
+Results for datasets' values:
+Mean accL: 83.87%
+Mean accT: 53.81%
+Mean accS: 45.1%
+Results for reader's values:
+Mean accL: 71.23%
+Mean accT: 36.25%
+Mean accS: 32.47%
+
+
+Results for reader Sub17:
+Results for datasets' values:
+Mean accL: 83.86%
+Mean accT: 52.88%
+Mean accS: 41.69%
+Results for reader's values:
+Mean accL: 73.8%
+Mean accT: 35.2%
+Mean accS: 28.57%
+
+
+Results for reader Sub18:
+Results for datasets' values:
+Mean accL: 84.43%
+Mean accT: 56.65%
+Mean accS: 49.35%
+Results for reader's values:
+Mean accL: 70.2%
+Mean accT: 32.91%
+Mean accS: 29.31%
+
+
+Results for reader Sub19:
+Results for datasets' values:
+Mean accL: 86.63%
+Mean accT: 55.82%
+Mean accS: 47.56%
+Results for reader's values:
+Mean accL: 74.43%
+Mean accT: 36.12%
+Mean accS: 31.26%
+
+
+Results for reader Sub20:
+Results for datasets' values:
+Mean accL: 86.59%
+Mean accT: 55.94%
+Mean accS: 47.17%
+Results for reader's values:
+Mean accL: 75.45%
+Mean accT: 39.2%
+Mean accS: 34.23%
+
+
+Results for reader Sub21:
+Results for datasets' values:
+Mean accL: 85.33%
+Mean accT: 51.74%
+Mean accS: 44.33%
+Results for reader's values:
+Mean accL: 73.52%
+Mean accT: 35.65%
+Mean accS: 31.33%
+
+
+Results for reader Sub22:
+Results for datasets' values:
+Mean accL: 84.22%
+Mean accT: 51.22%
+Mean accS: 42.27%
+Results for reader's values:
+Mean accL: 72.53%
+Mean accT: 37.67%
+Mean accS: 32.02%
+
+
+Results for reader Sub23:
+Results for datasets' values:
+Mean accL: 85.28%
+Mean accT: 54.5%
+Mean accS: 47.11%
+Results for reader's values:
+Mean accL: 76.73%
+Mean accT: 43.52%
+Mean accS: 37.87%
+
+
+Results for reader Sub24:
+Results for datasets' values:
+Mean accL: 84.62%
+Mean accT: 52.04%
+Mean accS: 43.45%
+Results for reader's values:
+Mean accL: 74.74%
+Mean accT: 38.61%
+Mean accS: 34.12%
+
+
+Results for reader Sub25:
+Results for datasets' values:
+Mean accL: 85.71%
+Mean accT: 56.55%
+Mean accS: 47.96%
+Results for reader's values:
+Mean accL: 66.64%
+Mean accT: 26.45%
+Mean accS: 22.98%
+
+
+Results for reader Sub26:
+Results for datasets' values:
+Mean accL: 84.49%
+Mean accT: 54.32%
+Mean accS: 45.92%
+Results for reader's values:
+Mean accL: 75.52%
+Mean accT: 48.77%
+Mean accS: 41.76%
+
+
+Results for reader Sub27:
+Results for datasets' values:
+Mean accL: 84.58%
+Mean accT: 48.52%
+Mean accS: 40.83%
+Results for reader's values:
+Mean accL: 72.26%
+Mean accT: 30.01%
+Mean accS: 24.65%
+
+
+Results for reader Sub28:
+Results for datasets' values:
+Mean accL: 86.03%
+Mean accT: 59.52%
+Mean accS: 53.3%
+Results for reader's values:
+Mean accL: 75.36%
+Mean accT: 48.66%
+Mean accS: 43.43%
+
+
+Results for reader Sub29:
+Results for datasets' values:
+Mean accL: 82.71%
+Mean accT: 46.8%
+Mean accS: 38.37%
+Results for reader's values:
+Mean accL: 70.21%
+Mean accT: 28.54%
+Mean accS: 24.65%
+
+
+Results for reader Sub30:
+Results for datasets' values:
+Mean accL: 83.61%
+Mean accT: 48.21%
+Mean accS: 39.44%
+Results for reader's values:
+Mean accL: 70.66%
+Mean accT: 29.86%
+Mean accS: 26.78%
+
+
+Results for reader Sub31:
+Results for datasets' values:
+Mean accL: 83.72%
+Mean accT: 50.64%
+Mean accS: 40.17%
+Results for reader's values:
+Mean accL: 70.62%
+Mean accT: 28.81%
+Mean accS: 22.47%
+
+
+Results for reader Sub32:
+Results for datasets' values:
+Mean accL: 84.52%
+Mean accT: 58.93%
+Mean accS: 50.51%
+Results for reader's values:
+Mean accL: 67.47%
+Mean accT: 31.89%
+Mean accS: 27.82%
+
+
+Results for reader Sub33:
+Results for datasets' values:
+Mean accL: 84.53%
+Mean accT: 49.65%
+Mean accS: 39.56%
+Results for reader's values:
+Mean accL: 66.2%
+Mean accT: 19.5%
+Mean accS: 16.34%
+
+
+Results for reader Sub34:
+Results for datasets' values:
+Mean accL: 83.82%
+Mean accT: 52.68%
+Mean accS: 43.04%
+Results for reader's values:
+Mean accL: 64.98%
+Mean accT: 23.98%
+Mean accS: 20.33%
+
+
+Results for reader Sub35:
+Results for datasets' values:
+Mean accL: 85.8%
+Mean accT: 57.38%
+Mean accS: 51.08%
+Results for reader's values:
+Mean accL: 64.8%
+Mean accT: 27.85%
+Mean accS: 25.78%
+
+
+Results for reader Sub36:
+Results for datasets' values:
+Mean accL: 84.95%
+Mean accT: 52.58%
+Mean accS: 45.0%
+Results for reader's values:
+Mean accL: 70.89%
+Mean accT: 33.01%
+Mean accS: 30.01%
+
+
+Results for reader Sub37:
+Results for datasets' values:
+Mean accL: 84.75%
+Mean accT: 54.77%
+Mean accS: 44.52%
+Results for reader's values:
+Mean accL: 68.25%
+Mean accT: 27.16%
+Mean accS: 24.42%
+
+
+Results for reader Sub38:
+Results for datasets' values:
+Mean accL: 84.42%
+Mean accT: 53.79%
+Mean accS: 44.82%
+Results for reader's values:
+Mean accL: 63.39%
+Mean accT: 19.54%
+Mean accS: 17.1%
+
+
+Results for reader Sub39:
+Results for datasets' values:
+Mean accL: 84.68%
+Mean accT: 53.02%
+Mean accS: 43.79%
+Results for reader's values:
+Mean accL: 78.77%
+Mean accT: 48.26%
+Mean accS: 43.02%
+
+
+Results for reader Sub40:
+Results for datasets' values:
+Mean accL: 85.99%
+Mean accT: 61.69%
+Mean accS: 51.73%
+Results for reader's values:
+Mean accL: 71.83%
+Mean accT: 42.55%
+Mean accS: 39.32%
+
+
+Results for reader Sub41:
+Results for datasets' values:
+Mean accL: 85.09%
+Mean accT: 60.26%
+Mean accS: 51.43%
+Results for reader's values:
+Mean accL: 72.88%
+Mean accT: 50.5%
+Mean accS: 44.38%
+
+
+Results for reader Sub42:
+Results for datasets' values:
+Mean accL: 84.86%
+Mean accT: 52.03%
+Mean accS: 42.34%
+Results for reader's values:
+Mean accL: 74.74%
+Mean accT: 41.09%
+Mean accS: 35.4%
+
+
+Results for reader Sub43:
+Results for datasets' values:
+Mean accL: 86.66%
+Mean accT: 56.95%
+Mean accS: 47.31%
+Results for reader's values:
+Mean accL: 71.99%
+Mean accT: 34.56%
+Mean accS: 29.49%
+
+
+Results for reader Sub44:
+Results for datasets' values:
+Mean accL: 83.23%
+Mean accT: 53.13%
+Mean accS: 42.94%
+Results for reader's values:
+Mean accL: 69.22%
+Mean accT: 36.18%
+Mean accS: 32.91%
+
+
+Results for reader Sub45:
+Results for datasets' values:
+Mean accL: 83.51%
+Mean accT: 51.02%
+Mean accS: 41.54%
+Results for reader's values:
+Mean accL: 70.26%
+Mean accT: 29.18%
+Mean accS: 24.74%
+
+
+Results for reader Sub46:
+Results for datasets' values:
+Mean accL: 84.78%
+Mean accT: 49.43%
+Mean accS: 40.19%
+Results for reader's values:
+Mean accL: 69.76%
+Mean accT: 25.31%
+Mean accS: 21.6%
+
+
+Results for reader Sub47:
+Results for datasets' values:
+Mean accL: 85.68%
+Mean accT: 54.69%
+Mean accS: 46.86%
+Results for reader's values:
+Mean accL: 74.14%
+Mean accT: 40.6%
+Mean accS: 34.55%
+
+
+Results for reader Sub48:
+Results for datasets' values:
+Mean accL: 84.64%
+Mean accT: 51.29%
+Mean accS: 42.06%
+Results for reader's values:
+Mean accL: 64.84%
+Mean accT: 22.08%
+Mean accS: 19.8%
+
+
+Results for reader Sub49:
+Results for datasets' values:
+Mean accL: 85.18%
+Mean accT: 59.3%
+Mean accS: 50.7%
+Results for reader's values:
+Mean accL: 60.61%
+Mean accT: 18.64%
+Mean accS: 17.03%
+
+
+Results for reader Sub50:
+Results for datasets' values:
+Mean accL: 84.75%
+Mean accT: 54.0%
+Mean accS: 44.0%
+Results for reader's values:
+Mean accL: 70.51%
+Mean accT: 34.62%
+Mean accS: 29.84%
+
+
+Results for reader Sub51:
+Results for datasets' values:
+Mean accL: 84.67%
+Mean accT: 54.56%
+Mean accS: 47.81%
+Results for reader's values:
+Mean accL: 71.16%
+Mean accT: 35.45%
+Mean accS: 31.89%
+
+
+Results for reader Sub52:
+Results for datasets' values:
+Mean accL: 83.38%
+Mean accT: 50.5%
+Mean accS: 43.28%
+Results for reader's values:
+Mean accL: 67.45%
+Mean accT: 32.52%
+Mean accS: 29.17%
+
+
+Results for reader Sub53:
+Results for datasets' values:
+Mean accL: 83.65%
+Mean accT: 52.28%
+Mean accS: 42.75%
+Results for reader's values:
+Mean accL: 74.7%
+Mean accT: 42.46%
+Mean accS: 36.91%
+
+
+Results for reader Sub54:
+Results for datasets' values:
+Mean accL: 84.21%
+Mean accT: 52.12%
+Mean accS: 43.96%
+Results for reader's values:
+Mean accL: 69.96%
+Mean accT: 30.48%
+Mean accS: 26.29%
+
+
+Results for reader Sub55:
+Results for datasets' values:
+Mean accL: 86.03%
+Mean accT: 54.34%
+Mean accS: 45.81%
+Results for reader's values:
+Mean accL: 74.12%
+Mean accT: 34.04%
+Mean accS: 27.89%
+
+
+Results for reader Sub56:
+Results for datasets' values:
+Mean accL: 85.18%
+Mean accT: 55.22%
+Mean accS: 47.63%
+Results for reader's values:
+Mean accL: 71.28%
+Mean accT: 35.25%
+Mean accS: 31.9%
+
+
+Results for reader Sub57:
+Results for datasets' values:
+Mean accL: 86.71%
+Mean accT: 60.5%
+Mean accS: 53.11%
+Results for reader's values:
+Mean accL: 65.2%
+Mean accT: 34.05%
+Mean accS: 29.01%
+
+
+Results for reader Sub58:
+Results for datasets' values:
+Mean accL: 85.44%
+Mean accT: 58.71%
+Mean accS: 51.7%
+Results for reader's values:
+Mean accL: 74.38%
+Mean accT: 45.85%
+Mean accS: 40.13%
+
+
+Results for reader Sub59:
+Results for datasets' values:
+Mean accL: 85.7%
+Mean accT: 55.3%
+Mean accS: 47.65%
+Results for reader's values:
+Mean accL: 79.66%
+Mean accT: 51.08%
+Mean accS: 46.18%
+
+
+Results for reader Sub60:
+Results for datasets' values:
+Mean accL: 83.68%
+Mean accT: 53.58%
+Mean accS: 43.5%
+Results for reader's values:
+Mean accL: 70.41%
+Mean accT: 34.57%
+Mean accS: 29.58%
+
+
+Results for reader Sub61:
+Results for datasets' values:
+Mean accL: 82.82%
+Mean accT: 51.19%
+Mean accS: 42.08%
+Results for reader's values:
+Mean accL: 71.05%
+Mean accT: 38.78%
+Mean accS: 33.1%
+
+
+Results for reader Sub62:
+Results for datasets' values:
+Mean accL: 85.97%
+Mean accT: 60.57%
+Mean accS: 52.31%
+Results for reader's values:
+Mean accL: 73.0%
+Mean accT: 41.28%
+Mean accS: 37.2%
+
+
+Results for reader Sub63:
+Results for datasets' values:
+Mean accL: 85.99%
+Mean accT: 54.65%
+Mean accS: 46.84%
+Results for reader's values:
+Mean accL: 71.62%
+Mean accT: 30.72%
+Mean accS: 27.35%
+
+
+Results for reader Sub64:
+Results for datasets' values:
+Mean accL: 85.44%
+Mean accT: 62.38%
+Mean accS: 52.45%
+Results for reader's values:
+Mean accL: 69.89%
+Mean accT: 33.53%
+Mean accS: 30.89%
+
+
+Results for reader Sub65:
+Results for datasets' values:
+Mean accL: 82.45%
+Mean accT: 52.69%
+Mean accS: 43.0%
+Results for reader's values:
+Mean accL: 58.79%
+Mean accT: 19.65%
+Mean accS: 16.48%
+
+
+Results for reader Sub66:
+Results for datasets' values:
+Mean accL: 84.76%
+Mean accT: 58.33%
+Mean accS: 48.87%
+Results for reader's values:
+Mean accL: 79.73%
+Mean accT: 56.52%
+Mean accS: 47.76%
+
+
+Results for reader Sub67:
+Results for datasets' values:
+Mean accL: 86.44%
+Mean accT: 61.38%
+Mean accS: 54.3%
+Results for reader's values:
+Mean accL: 65.09%
+Mean accT: 29.81%
+Mean accS: 28.29%
+
+
+Results for reader Sub68:
+Results for datasets' values:
+Mean accL: 83.2%
+Mean accT: 50.53%
+Mean accS: 41.06%
+Results for reader's values:
+Mean accL: 66.22%
+Mean accT: 24.99%
+Mean accS: 21.81%
+
+
+Results for reader Sub69:
+Results for datasets' values:
+Mean accL: 85.54%
+Mean accT: 59.67%
+Mean accS: 53.11%
+Results for reader's values:
+Mean accL: 77.6%
+Mean accT: 52.3%
+Mean accS: 45.57%
+
+
+Results for reader Sub70:
+Results for datasets' values:
+Mean accL: 84.66%
+Mean accT: 52.0%
+Mean accS: 41.47%
+Results for reader's values:
+Mean accL: 71.57%
+Mean accT: 31.69%
+Mean accS: 26.87%
+
+
+Results for reader Sub71:
+Results for datasets' values:
+Mean accL: 83.92%
+Mean accT: 50.55%
+Mean accS: 41.62%
+Results for reader's values:
+Mean accL: 68.8%
+Mean accT: 26.06%
+Mean accS: 20.38%
+
+
+Results for reader Sub72:
+Results for datasets' values:
+Mean accL: 84.95%
+Mean accT: 53.42%
+Mean accS: 43.69%
+Results for reader's values:
+Mean accL: 72.05%
+Mean accT: 34.58%
+Mean accS: 30.24%
+
+
+Results for reader Sub73:
+Results for datasets' values:
+Mean accL: 85.17%
+Mean accT: 57.87%
+Mean accS: 49.93%
+Results for reader's values:
+Mean accL: 74.3%
+Mean accT: 42.38%
+Mean accS: 37.41%
+
+
+Results for reader Sub74:
+Results for datasets' values:
+Mean accL: 82.0%
+Mean accT: 47.6%
+Mean accS: 40.66%
+Results for reader's values:
+Mean accL: 67.89%
+Mean accT: 28.13%
+Mean accS: 24.28%
+
+
+Results for reader Sub75:
+Results for datasets' values:
+Mean accL: 84.38%
+Mean accT: 51.06%
+Mean accS: 40.83%
+Results for reader's values:
+Mean accL: 62.12%
+Mean accT: 11.78%
+Mean accS: 9.75%
+
+
+Results for reader Sub76:
+Results for datasets' values:
+Mean accL: 86.64%
+Mean accT: 61.37%
+Mean accS: 52.21%
+Results for reader's values:
+Mean accL: 63.17%
+Mean accT: 24.15%
+Mean accS: 20.88%
+
+
+Results for reader Sub77:
+Results for datasets' values:
+Mean accL: 84.7%
+Mean accT: 47.51%
+Mean accS: 39.17%
+Results for reader's values:
+Mean accL: 76.24%
+Mean accT: 40.34%
+Mean accS: 34.23%
+
+
+Results for reader Sub78:
+Results for datasets' values:
+Mean accL: 84.21%
+Mean accT: 55.46%
+Mean accS: 48.9%
+Results for reader's values:
+Mean accL: 70.37%
+Mean accT: 39.1%
+Mean accS: 35.4%
+
+
+Results for reader Sub79:
+Results for datasets' values:
+Mean accL: 85.43%
+Mean accT: 59.22%
+Mean accS: 50.4%
+Results for reader's values:
+Mean accL: 73.76%
+Mean accT: 41.08%
+Mean accS: 35.96%
+
+
+Results for reader Sub80:
+Results for datasets' values:
+Mean accL: 83.45%
+Mean accT: 48.96%
+Mean accS: 39.85%
+Results for reader's values:
+Mean accL: 70.06%
+Mean accT: 33.05%
+Mean accS: 30.48%
+
+
+Results for reader Sub81:
+Results for datasets' values:
+Mean accL: 86.16%
+Mean accT: 61.61%
+Mean accS: 54.17%
+Results for reader's values:
+Mean accL: 69.54%
+Mean accT: 35.61%
+Mean accS: 31.03%
+
+
+Results for reader Sub82:
+Results for datasets' values:
+Mean accL: 82.87%
+Mean accT: 50.29%
+Mean accS: 42.38%
+Results for reader's values:
+Mean accL: 70.19%
+Mean accT: 36.3%
+Mean accS: 30.6%
+
+
+Results for reader Sub83:
+Results for datasets' values:
+Mean accL: 84.44%
+Mean accT: 54.22%
+Mean accS: 46.04%
+Results for reader's values:
+Mean accL: 73.3%
+Mean accT: 41.82%
+Mean accS: 37.08%
+
+
+Results for reader Sub84:
+Results for datasets' values:
+Mean accL: 82.73%
+Mean accT: 51.28%
+Mean accS: 41.4%
+Results for reader's values:
+Mean accL: 67.77%
+Mean accT: 32.33%
+Mean accS: 28.67%
+
+
