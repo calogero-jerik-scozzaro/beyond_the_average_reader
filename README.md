@@ -12,7 +12,7 @@ Our work demonstrates that systems trained on average values across all readers 
 ## Setup and Execution
 
 1. **Data Preparation**: Download the Provo Corpus files (Luke, S.G., Christianson, K. The Provo Corpus: A large eye-tracking corpus with predictability norms. Behav Res 50, 826–833 (2018). https://doi.org/10.3758/s13428-017-0908-4) and place them in a data folder in the project root directory.
-2. **Environment Setup**: Create and activate a conda environment using the provided requirements.yaml file and activate it.
+2. **Environment Setup**: Create a conda environment using the provided requirements.yaml file and activate it. Note that PyTorch and related packages are installed separately.
     ```bash
     conda env create -f requirements.yml
     conda activate beyond_the_average_reader_env
